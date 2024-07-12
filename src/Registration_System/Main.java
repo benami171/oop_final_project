@@ -5,7 +5,6 @@ import Registration_System.CourseCreation.RegistrationSystem;
 
 
 
-
 public class Main {
     static Student aharon;
     static Student hagai;
