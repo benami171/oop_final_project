@@ -1,5 +1,4 @@
 package Registration_System;
-
 import Registration_System.Exceptions.IdAlreadyInUseException;
 import Registration_System.Exceptions.LoginException;
 import Registration_System.CourseCreation.RegistrationSystem;
