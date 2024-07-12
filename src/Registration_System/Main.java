@@ -110,9 +110,6 @@ public class Main {
         System.out.println();
         Course oop = gabriel.declareCourse(5, 131, TypeOfCourse.MANDATORY, "Object Oriented Programming");
         System.out.println();
-
-
-
         System.out.println();
         rs.registerCourse(sapir,oop);
         rs.registerCourse(aharon,oop);
