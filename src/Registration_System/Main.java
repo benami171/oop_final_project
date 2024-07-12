@@ -4,7 +4,6 @@ import Registration_System.Exceptions.LoginException;
 import Registration_System.CourseCreation.RegistrationSystem;
 
 
-
 public class Main {
     static Student aharon;
     static Student hagai;
